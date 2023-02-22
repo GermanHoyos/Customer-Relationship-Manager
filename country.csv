@@ -1,0 +1,4 @@
+countryId,country,createDate,createdBy,lastUpdate,lastUpdateBy
+1,US,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test
+2,Canada,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test
+3,Norway,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test

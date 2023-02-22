@@ -1,0 +1,4 @@
+addressId,address,address2,cityId,postalCode,phone,createDate,createdBy,lastUpdate,lastUpdateBy
+1,"123 Main",,1,11111,555-1212,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test
+2,"123 Elm",,3,11112,555-1213,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test
+3,"123 Oak",,5,11113,555-1214,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test

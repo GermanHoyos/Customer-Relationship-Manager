@@ -1,0 +1,4 @@
+customerId,customerName,addressId,active,createDate,createdBy,lastUpdate,lastUpdateBy
+1,"John Doe",1,1,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test
+2,"Alfred E Newman",2,1,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test
+3,"Ina Prufung",3,1,"2019-01-01 00:00:00",test,"2019-01-01 00:00:00",test
